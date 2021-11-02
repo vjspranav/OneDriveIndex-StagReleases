@@ -1,6 +1,6 @@
 {
   "clientId": "347f866b-4f64-4b45-ace3-ac8646027775",
-  "redirectUri": "http://localhost",
+  "redirectUri": "https://heymind.github.io/tools/microsoft-graph-api-auth",
   "base": "/StagOS-Official",
   "authApi": "https://login.microsoftonline.com/common/oauth2/v2.0/token",
   "driveApi": "https://graph.microsoft.com/v1.0/me/drive"
